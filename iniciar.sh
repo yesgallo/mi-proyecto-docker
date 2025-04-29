@@ -47,7 +47,6 @@ function show_status() {
     echo ""
 }
 
-# Bucle interactivo
 while true; do
     echo ""
     echo "🧭 Menú de acciones:"
